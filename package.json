@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/jimxshaw/NodeLibrary#readme",
   "dependencies": {
+    "chalk": "^2.3.2",
     "express": "^4.16.3"
   }
 }
